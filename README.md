@@ -18,6 +18,10 @@ This project is an eCommerce website designed using a microservices architecture
   - Description: Processes payment transactions.
   - Key Features: Payment gateway integration, transaction history, refunds.
 
+- **Notification Service**: (https://github.com/NaveenKandarpa/NotificationService)
+  - Description: Sends an email notification to the user after signing up.
+  - Key Features: Kafka, Pub-Sub model
+  
 - **Service Discovery**: (https://github.com/NaveenKandarpa/servicediscovery)
   - Description: Maintains the list of all servers running a particular microservice.
   - Key Features: Eureka server, Spring cloud.
